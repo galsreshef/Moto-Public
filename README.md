@@ -8,7 +8,7 @@
 
 
  <p align="center"> 
-  As a rider I found the need of a network that can bring other rider together.<br>
+  As a rider I saw the need of a network that can bring other rider together.<br>
   By serving users knowlage about new products, locations and experiences of other users.<br>
   A place to share trips ideas, sell your motorcycle or find an accessory you need.
   </p>
